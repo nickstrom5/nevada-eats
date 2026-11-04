@@ -1,0 +1,156 @@
+{
+ "generated": "2026-10-28",
+ "domain": "https://nickstrom5.github.io/nevada-eats",
+ "restaurants": 9573,
+ "places_incl_hidden": 10873,
+ "towns": 79,
+ "counties": 17,
+ "on_an_official_list": 7347,
+ "hand_checked_on_a_guide": 21,
+ "snhd_graded": 6069,
+ "snhd_grades": {
+  "A": 6032,
+  "B": 28,
+  "C": 9
+ },
+ "guide_basque": 4,
+ "guide_buffets": 4,
+ "guide_chinatown": 5,
+ "guide_plate": 6,
+ "guide_steak": 2,
+ "guide_classics": 0,
+ "guide_saloons": 0,
+ "guide_pages": [
+  "basque",
+  "buffets",
+  "chinatown",
+  "plate"
+ ],
+ "oldest": 5,
+ "honors": 28,
+ "michelin": {
+  "MICHELIN Recommended": 17,
+  "Bib Gourmand": 3,
+  "1 MICHELIN Star": 3,
+  "2 MICHELIN Stars": 1
+ },
+ "james_beard": 4,
+ "americas_classics": 2,
+ "permits_updated": "2026-10-27",
+ "inspections_through": "2026-10-20",
+ "city_pages": {
+  "Las Vegas": {
+   "restaurants": 5936,
+   "listed": 41,
+   "snhd_graded": 4777,
+   "basque": 0,
+   "buffets": 4,
+   "chinatown": 5,
+   "plate": 6,
+   "hon": 28,
+   "oldest": 2
+  }
+ },
+ "cities_without_a_page": {
+  "Reno": 0,
+  "Henderson": 0,
+  "North Las Vegas": 0,
+  "Sparks": 0,
+  "Carson City": 1,
+  "Elko": 1,
+  "Winnemucca": 1,
+  "Gardnerville": 1,
+  "Boulder City": 0,
+  "Mesquite": 0,
+  "Laughlin": 0,
+  "Pahrump": 0,
+  "Incline Village": 0,
+  "Stateline": 0,
+  "Virginia City": 0,
+  "Ely": 0,
+  "Tonopah": 0
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 837709,
+   "gzip": 163082
+  },
+  "data/detail-carson-city.json": {
+   "raw": 8346,
+   "gzip": 2429
+  },
+  "data/detail-churchill-county.json": {
+   "raw": 2264,
+   "gzip": 725
+  },
+  "data/detail-clark-county.json": {
+   "raw": 3556486,
+   "gzip": 474472
+  },
+  "data/detail-douglas-county.json": {
+   "raw": 6569,
+   "gzip": 1976
+  },
+  "data/detail-elko-county.json": {
+   "raw": 7332,
+   "gzip": 2142
+  },
+  "data/detail-esmeralda-county.json": {
+   "raw": 79,
+   "gzip": 82
+  },
+  "data/detail-eureka-county.json": {
+   "raw": 116,
+   "gzip": 110
+  },
+  "data/detail-humboldt-county.json": {
+   "raw": 2494,
+   "gzip": 846
+  },
+  "data/detail-lander-county.json": {
+   "raw": 625,
+   "gzip": 297
+  },
+  "data/detail-lincoln-county.json": {
+   "raw": 195,
+   "gzip": 104
+  },
+  "data/detail-lyon-county.json": {
+   "raw": 4659,
+   "gzip": 1408
+  },
+  "data/detail-mineral-county.json": {
+   "raw": 559,
+   "gzip": 280
+  },
+  "data/detail-nye-county.json": {
+   "raw": 4601,
+   "gzip": 1454
+  },
+  "data/detail-pershing-county.json": {
+   "raw": 464,
+   "gzip": 236
+  },
+  "data/detail-storey-county.json": {
+   "raw": 1011,
+   "gzip": 389
+  },
+  "data/detail-washoe-county.json": {
+   "raw": 137039,
+   "gzip": 22806
+  },
+  "data/detail-white-pine-county.json": {
+   "raw": 1183,
+   "gzip": 452
+  },
+  "data/ids.json": {
+   "raw": 124477,
+   "gzip": 72411
+  },
+  "data/nv_shapes.json": {
+   "raw": 15996,
+   "gzip": 3350
+  }
+ }
+}
